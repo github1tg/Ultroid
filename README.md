@@ -114,4 +114,5 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 
 ### Diploy to heroku
     
-*[Diploy to heroku](https://github.com/github1tg/Ultroid)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/github1tg/Ultroid)
+
